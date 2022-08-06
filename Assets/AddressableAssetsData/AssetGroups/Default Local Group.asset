@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bb9fbbc7762da404ab38a036d7033721
+  m_SerializeEntries:
+  - m_GUID: f11e46a72aecefc499663e4ee9e08cff
+    m_Address: Assets/Prefab/MultipledPrefs/Trees.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ce4eac1f4844b04881d954374dd09cd
+    m_Address: Assets/Prefab/MultipledPrefs/Terrain.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 663d315143c82ac4aa89558a5bb61e5d
+    m_Address: Assets/Prefab/MultipledPrefs/Misc.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db754f9d63b7e9544bfe476e6b559446
+    m_Address: Assets/Prefab/StylizedWater_Desktop.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aa45f280daf527d4c8b3fddba6616679, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 50e984de0b38c5440a33dba21977aba1, type: 2}
+    - {fileID: 11400000, guid: f062bfc9601286f438f495fab581e332, type: 2}
